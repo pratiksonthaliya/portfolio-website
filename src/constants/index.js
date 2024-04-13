@@ -76,7 +76,7 @@ export const PROJECTS = [
   // },
   {
     title: "Compiler Design:  my-programming-language",
-    image: project4,
+    image: project3,
     link: "https://www.npmjs.com/package/my-programming-language",
     code: "https://github.com/pratiksonthaliya/my-programming-language",
     description:
@@ -85,7 +85,7 @@ export const PROJECTS = [
   },
   {
     title: "Tic Tac Toe",
-    image: project3,
+    image: project4,
     link: "https://tic-tac-toe-pratik.vercel.app/",
     code: "https://github.com/pratiksonthaliya/tic-tac-toe-ts",
     description:
